@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="title_text_main">Countries Information App</string>
+    <string name="bangladesh_name">
+        Bangladesh
+    </string>
+    <string name="bangladesh_short_details">
+        Bangladesh, a South Asian gem nestled . . .
+    </string>
+    <string name="bangladesh_long_details">Bangladesh, a South Asian gem nestled between India and Myanmar, boasts a rich tapestry of cultural and natural wonders. The Sundarbans, the largest mangrove forest in the world, home to the elusive Bengal tiger, stands as a UNESCO World Heritage Site and a symbol of the country is diverse ecosystems. Dhaka, the bustling capital, showcases a harmonious blend of modernity and tradition, with landmarks like the historic Lalbagh Fort and the vibrant Ahsan Manzil reflecting its rich history. The Shah Jalal University of Science and Technology and the Liberation War Museum are testament to the nation is commitment to education and commemorating its struggle for independence. The Padma Bridge, a monumental infrastructure project, is set to become an iconic symbol of Bangladesh is progress. Additionally, the country is renowned for its vibrant textile industry, producing world-famous textiles like muslin and Jamdani, contributing to its global reputation in the realm of fashion. Bangladesh is warmth, resilience, and cultural heritage continue to captivate the world.</string>
+    <string name="india_name">
+        India
+    </string>
+    <string name="india_short_details">
+         India is a partner in advancing . . .
+    </string>
+    <string name="india_long_details">
+        India is a partner in advancing USAID’s shared objectives to support clean energy, environment, climate challenges, health, open and inclusive digital ecosystems, inclusive economic growth, and the COVID-19 response in India and across South and Central Asia and the Indo-Pacific region.
+
+India is a leading global power and a key U.S. partner in the Indo-Pacific and the world. The U.S. supports India’s rise as a leader and its development assistance to other countries, including Afghanistan, where we share economic and humanitarian interests. USAID also leverages India’s growing human and financial resources through partnerships, with both public and private actors, that catalyze innovation and entrepreneurship to solve critical local and global development challenges.
+        India has the second-highest cases of global COVID-19 infections. USAID support has helped India strengthen health system resilience, readiness, response capacity, address stigma, and mobilize innovative financing mechanisms for emergency preparedness and response to the pandemic. USAID also helped India to address bottlenecks at different stages of the supply chain for HIV, TB, contraceptive, and other critical healthcare drugs and equipment, which are vital both for India and the world given that India’s pharmaceutical industry supplies 80 percent of the world’s medicines.
+
+High rates of child and maternal death, widespread malnutrition, and persistently high TB and HIV rates threaten the lives and productivity of India’s expanding population. Exacerbating India’s health challenges, access to clean water and functioning toilets escapes about 40 percent of the population—making India home to the world’s highest number of diarrhea-related deaths in children under 5. USAID leverages Indian resources to strengthen the reach, affordability and quality of health care services. Also, with USAID support, since 2014, India has declared more than 4,000 cities open defecation-free, reducing the potential for health hazards.
+    </string>
+    <string name="pakistan_name">
+        Pakistan
+    </string>
+    <string name="pakistan_short_Details">
+        Pakistan emerged on the world map . . .
+    </string>
+    <string name="pakistan_long_details">
+        Pakistan emerged on the world map as an independent sovereign state in August 1947, as a result of the division of the British Indian Empire. With a land area of 881,913 sq. km. [including FATA (Federal Administered Tribal Areas) and FANA (Federal Administered Northern Areas)], its population stands at nearly 172.80 million, according to the 2008 Census. Historically, this is one of the most ancient lands known to man. Its cities flourished before Babylon was built; its people practiced the art of good living and citizenship before the celebrated ancient Greeks.
+
+The region traces its history back to at least 2,500 years before Christ, when a highly developed civilization flourished in the Indus Valley. Excavations at Harappa, Mohenjodaro and Kot Diji have brought to light evidence of an advanced civilization flourishing here even in most ancient times. Around 1,500 B.C. the Aryans conquered this region and slowly pushed the Hindu inhabitants further east, towards the Ganges Valley. Later, the Persians occupied the northern regions in 5th century B.C. The Greeks came in 327 B.C., under Alexander of Macedonia, and ran through the region like a meteor. In 712 A.D. the Arabs, led by Mohammed Bin Qasim, landed somewhere near what is now Karachi, and ruled the lower half of Pakistan for two hundred years. During this time Islam took root and influenced the life, culture and traditions of the inhabitants of the region.
+
+From 10th century A.D. onwards, a systematic conquest of Indo-Pakistan by the Muslims from Central Asia began and lasted up to 18th century A.D., when the British colonized the Sub-continent and ruled for nearly 200 years (for 100 years over what is now Pakistan). The Muslim revival began towards the end of the last century when Sir Syed Ahmed Khan, a renowned leader and educationist, launched a movement for intellectual renaissance of the Indian Muslims. In 1930, the well-known poet/philosopher, Dr. Mohammed Iqbal conceived the idea of a separate state for the Muslims of the Sub-continent, and in 1940, the All-India Muslim League adopted the famous Pakistan Resolution.
+
+After seven years of untiring struggle, under the brilliant leadership of Quaid-e-Azam Mohammed Ali Jinnah, Pakistan emerged on the world map as a sovereign state on August 14, 1947, when the British Indian Empire was partitioned into two independent states – India and Pakistan.
+    </string>
+    <string name="srilanka_name">
+        Sri Lanka
+    </string>
+    <string name="srilanka_short_details">
+        Sri Lanka, officially the Democratic . . .
+    </string>
+    <string name="srilanka_long_details">
+
+Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka (known as Ceylon before 1972) is an island nation in South Asia, located about 31 kilometres (19.3 mi) off the southern coast of India. Popularly referred to as the Pearl of the Indian Ocean, it is home to around twenty million people.
+
+Due to its location in the path of major sea routes, Sri Lanka is a strategic naval link between West Asia and South East Asia, and has been a center of Buddhist religion and culture from ancient times.
+
+Today, the country is a multi-religious and multi-ethnic nation, with nearly a third of the population following faiths other than Buddhism, notably Hinduism, Christianity and Islam. The Sinhalese community forms the majority of the population, with Tamils, who are concentrated in the north and east of the island, forming the largest ethnic minority. Other communities include the Muslim Moors and Malays and the Burghers.
+
+Famous for the production and export of tea, coffee, rubber and coconuts, Sri Lanka boasts a progressive and modern industrial economy and the highest per capita income in South Asia. The natural beauty of Sri Lanka’s tropical forests, beaches and landscape, as well as its rich cultural heritage, make it a world famous tourist destination.
+
+After over two thousand years of rule by local kingdoms, parts of Sri Lanka were colonized by Portugal and the Netherlands beginning in the 16th century, before the control of the entire country was ceded to the British Empire in 1815.
+
+During World War II, Sri Lanka served as an important base for Allied forces in the fight against the Japanese Empire. A nationalist political movement arose in the country in the early 20th century with the aim of obtaining political independence, which was eventually granted by the British after peaceful negotiations in 1948.
+
+Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka (known as Ceylon before 1972) is an island nation in South Asia, located about 31 kilometres (19.3 mi) off the southern coast of India. Popularly referred to as the Pearl of the Indian Ocean, it is home to around twenty million people.
+
+Due to its location in the path of major sea routes, Sri Lanka is a strategic naval link between West Asia and South East Asia, and has been a center of Buddhist religion and culture from ancient times.
+
+Today, the country is a multi-religious and multi-ethnic nation, with nearly a third of the population following faiths other than Buddhism, notably Hinduism, Christianity and Islam. The Sinhalese community forms the majority of the population, with Tamils, who are concentrated in the north and east of the island, forming the largest ethnic minority. Other communities include the Muslim Moors and Malays and the Burghers.
+
+Famous for the production and export of tea, coffee, rubber and coconuts, Sri Lanka boasts a progressive and modern industrial economy and the highest per capita income in South Asia. The natural beauty of Sri Lanka’s tropical forests, beaches and landscape, as well as its rich cultural heritage, make it a world famous tourist destination.
+
+After over two thousand years of rule by local kingdoms, parts of Sri Lanka were colonized by Portugal and the Netherlands beginning in the 16th century, before the control of the entire country was ceded to the British Empire in 1815.
+
+During World War II, Sri Lanka served as an important base for Allied forces in the fight against the Japanese Empire. A nationalist political movement arose in the country in the early 20th century with the aim of obtaining political independence, which was eventually granted by the British after peaceful negotiations in 1948.
+    </string>
+    <string name="mayanmar_name">
+        Mayanmar
+    </string>
+    <string name="mayanmar_short_details">
+        Myanmar has a rich and intense history . . .
+    </string>
+    <string name="mayanmar_long_details">
+        Myanmar has a rich and intense history stretching back to times of Pyu dynasty which prospered for a 1000 years from 200 BC to 900 AD.
+
+The first Myanmar Empire which was established in Bagan by King Anawrahta in the 11th century. This civilisation lasted of over 200years and was replaced by the second Empire of King Bayinnaung in the 16th century. In 1824 began a number of wars between the Kingdom of Myanmar and the British Empire. These wars culminated in 1885 with the overthrow, by the British, of the last King and the beginning of colonialisation for the next 60 years. During WW2 Myanmar was occupied by the Japanese from 1942 -1945 and in 1948 Myanmar was freed from British rule and became an independent country.
+        In 2017 the population of Myanmar was 53.37 million and consisted of many different ethnic groups including the Bamar, the largest group, Kachin, Kayin, Kayah, Chin, Mon Rakhine and Shan. Over 80% of the population is Buddhist and the most common language is Burmese, with many ethnic dialects spoken. English is widely spoken, along with Mandarin, Cantonese and Hindu.
+
+The country is recognised for having many colourful and exciting festivals nearly each month – among them are, Thingyan Water Festival, Naga New Year and the Hot Air Balloon Festival.
+
+What is for sure is the people of Myanmar are well known for being a warm and friendly towards visitors.
+    </string>
+    <string name="bhutan_name">
+        Bhutan
+    </string>
+    <string name="bhutan_short_details">
+        Bhutan is a development success story . . .
+    </string>
+    <string name="bhutan_long_details">
+        Bhutan is a development success story. The gradual opening of its economy in the early 1960’s led to rapid development of the Kingdom, underpinned by impressive socioeconomic progress. Its unique philosophy of maximizing Gross National Happiness (GNH) enabled Bhutan to balance economic development with the preservation of its natural environment and cultural traditions. Democratic governance in Bhutan has taken root.
+
+ While Bhutan is one of the smallest economies in the world, it is also one of the fastest growing economies, and is considered by the World Bank’s classification as a lower Middle-Income Country (LMIC). A combination of prudent fiscal and monetary policy, as well as robust investments in hydropower has largely facilitated its growth over the years. Bhutan’s progress in human development has also been significant, having achieved or surpassed targets in five of eight Millennium Development Goals (MDGs), and is ranked in the medium HDI category. As testament to the tremendous socioeconomic progress made over the decades, Bhutan is expected to graduate from the UN’s Least Developed Countries (LDC) category in 2023, with the RGOB calling the 12th FYP “the last mile to LDC graduation”.
+    </string>
+    <string name="south_korea_name">
+        South Korea
+    </string>
+    <string name="south_kore_short_details">
+         South Korea is an extraordinary country . . .
+    </string>
+    <string name="south_korea_long_details">
+        South Korea is an extraordinary country filled with beautiful beaches, thriving cities, ancient temples, remarkable natural scenery and most importantly, friendly people. South Korea has come a long way since The Korean War ended in 1953. Almost all of South Korea was completely leveled during the war which is hard to imagine if you have seen Korea recently.
+        Korea’s dense urban centers, developed parks and recreation facilities, high tech infrastructure and ultra modern public transportation systems are just some of the things that have made Korea a recognized hotspot for international business and travel. Seoul Olympic Park, located in the capital city of Seoul, preserves the spirit of the 1988 Summer Olympics and is open all day providing multipurpose areas for sports, leisure and a variety of cultural activities.
+
+To this day, South Korea remains one of the world’s most ethnically homogenous countries. It is believed that the people of South Korea are direct descendants of several migratory Mongol tribes who ventured into the Korean Peninsula about a half million years ago. Today South Korea is home to approximately 49 million people making it one of the most densely populated countries in the world. South Korea currently maintains diplomatic relationships with over 170 different nations.
+    </string>
+    <string name="china_name">
+        China
+    </string>
+    <string name="china_short_details">
+         Since China began to open up and  . . .
+    </string>
+    <string name="china_long_details">
+        Since China began to open up and reform its economy in 1978, GDP growth has averaged over 9 percent a year, and more than 800 million people have lifted themselves out of poverty. There have also been significant improvements in access to health, education, and other services over the same period.
+
+China is now an upper-middle-income country. Although China has eradicated extreme poverty, a significant number of people remain vulnerable, with incomes below a threshold more typically used to define poverty in upper-mid­dle income countries.
+
+China’s high growth based on investment, low-cost manufacturing and exports has largely reached its limits and has led to economic, social, and environmental imbalances. Reducing these imbalances requires shifts in the structure of the economy from manufacturing to high value services, from investment to consumption, and from high to low carbon intensity.
+
+Over the past few years, growth has moderated in the face of structural constraints, including declining labor force growth, diminishing returns to investment, and slowing productivity growth. The challenge going forward is to find new drivers of growth while addressing the social and environmental legacies of China’s previous development path.
+
+China’s rapid economic growth exceeded the pace of institutional development, and there are important institutional and reform gaps that China needs to address to ensure a high-quality and sustainable growth path. The role of the state needs to evolve and focus on providing a clear, fair and stable business environment, strengthening the regulatory system and the rule of law to further support the market system, as well as ensuring equitable access to public services to all citizens.
+
+Given its size, China is central to many regional and global development issues. Although not the main source of historical cumulative emissions, China today accounts for 27 percent of annual global carbon dioxide and a third of the world’s greenhouse gas emissions – with per capita emissions now surpassing those of the European Union, although slightly below the OECD average and well below the level of the United States – and its air and water pollution affects other countries. Global environmental problems cannot be solved without China’s engagement. China’s growing economy is also an important source of global demand. Its economic rebalancing will create new opportunities for manufacturing exporters, though it may reduce demand for commodities over the medium-term.
+
+China is a growing influence on other developing economies through trade, investment, and ideas. Many of the complex development challenges that China faces are relevant to other countries, including transitioning to a new growth model, rapid aging, building a cost-effective health system, and promoting a lower-carbon energy path.
+
+Following China’s swift reopening after the COVID-19 outbreaks in late 2022, GDP growth is expected to rebound to 5.1 percent in 2023, from 3 percent in 2022. Growth will be led by a recovery in demand, particularly for services. Investment is expected to remain robust, supported by slower but sustained growth in infrastructure and manufacturing investment, as well as the gradual stabilization of property investment. Net exports are expected to weigh on growth, due to softer external demand coupled with a modest acceleration in import growth driven by the increase in domestic demand.
+
+To support the ongoing recovery fiscal policy is expected to remain expansionary, albeit less so than in 2022. Monetary policy is likely to be relatively accommodative, and policy easing in the property sector will be maintained in 2023.
+
+Over the medium term, China’s economy continues to confront a structural slowdown. Potential growth has been on a declining trend, reflecting adverse demographics, tepid productivity growth, and rising constraints to a debt-fueled, investment-driven growth model. Structural reforms are needed to reinvigorate the shift to more balanced high-quality growth.
+    </string>
+    <string name="russia_name">
+        Russia
+    </string>
+    <string name="russia_short_details">
+        Russia is situated in the east of Europe . . .
+    </string>
+    <string name="russia_long_details">
+       Russia is situated in the east of Europe and the north of Asia. It is contiguous with 18 states and has the longest borderline in the world. Russia is a biggest country in the world. Its territory is 17,075,400 sq. km. Russia extends across the whole northern Asia and 40% of Europe.
+
+Russias climate is very diverse, ranging from sub-tropical at the Black Sea to extremely continental in Siberia, where the temperature drop within a year may exceed 80°C, and arctic in the Far North; but most of the country lies within the zone of temperate climate.
+        There are 9 time zones in Russia. The time difference varies from +3 hours in Kaliningrad to + 12 hours in Kamchatka and Chukotka with respect to the Greenwich Time. The time in Moscow and St. Petersburg is GMT +4 hours, that is for one hour more than in Saudi Arabia.
+
+    </string>
+    <string name="japan_name">
+        Japan
+    </string>
+    <string name="japan_short_details">
+Japan is an island nation in East Asia . . .
+    </string>
+    <string name="japan_long_details">
+        Japan is an island nation in East Asia. Located in the Pacific Ocean, it borders China, North Korea, South Korea, Russia, Taiwan, the Sea of Japan, the Sea of Okhotsk, and the East China Sea. It is an archipelago of 6,852 islands, most of which are mountainous, and many are volcanic. The government system is a parliamentary government with a constitutional monarchy; the chief of state is the emperor, and the head of government is the prime minister. Japan has a market economy in which the prices of goods and services are determined in a free price system. Japan is a member of the Asia-Pacific Economic Cooperation (APEC) and the Trans-Pacific Partnership (TPP).
+        Together with the Swiss Economic Institute at the ETH Zurich, S-GE has created a ranking of the top export markets. It shows which markets are particularly attractive for Swiss SMEs.
+
+The governments focus is on topics such as its aging society, tourism, tax cuts, innovation and sustainability (cleantech). Japan is strategically important and counts as a trend-setter in Asia. Companies which are successful in Japan will also find success in other Asian countries. This is in part due to Japanese parent companies which are increasingly moving production to other countries.
+
+A real and accepted USP in Japan is not enough; strong customer service, often provided by a Japanese partner, is vital. This means that choosing the right partner is a decisive step for market success. A professional market analysis with a detailed partner search is therefore unavoidable.
+
+    </string>
+</resources>

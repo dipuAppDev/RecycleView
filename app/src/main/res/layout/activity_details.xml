@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_green"
+    tools:context=".DetailsActivity">
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:id="@+id/countryImageD"
+        android:src="@drawable/bangladesh_flag"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:adjustViewBounds="true"
+        android:layout_marginTop="30dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/countryNameD"
+        android:text="Country Name"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/countryImageD"
+        app:layout_constraintStart_toStartOf="@id/countryImageD"
+        app:layout_constraintEnd_toEndOf="@id/countryImageD"
+        android:layout_marginTop="30dp"
+        />
+    <ScrollView
+        android:layout_width="350dp"
+        android:layout_height="470dp"
+        android:id="@+id/scrollV"
+        app:layout_constraintTop_toBottomOf="@id/countryNameD"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/countryLongDetails"
+            android:text="@string/bangladesh_long_details"
+            android:justificationMode="inter_word"
+            android:lineHeight="30dp"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            />
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
